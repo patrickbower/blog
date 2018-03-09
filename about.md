@@ -1,18 +1,9 @@
 ---
 layout: post
-title: About
+title: Patrick Bower
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This blog charts my experance into becoming a Creative Technologist. It's here I can share my adventures and organise and share some knowhow.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm London based and for the past five years, a front end developer with a design background. I've worked with nemourous organisations delivering fast, scalable, accessible and eloquent code. My design past gave me opportunity to work in a wide range of disciplines where I enjoyed the process of discovering, experimenting and iterating to find the best solutions which has continued into my development practice when using new technologies and languages.
